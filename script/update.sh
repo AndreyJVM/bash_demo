@@ -1,27 +1,10 @@
 #!/bin/bash
 
-printf "\n
-#######################################
-####                               ####
-####       UPDATE SYSTEM           ####
-####                               ####
-#######################################\n"
+echo "UPDATE SYSTEM"
 sudo apt-get update -y
 
-
-printf "\n
-#######################################
-####                               ####
-####       UPGRADE SYSTEM          ####
-####                               ####
-#######################################\n"
+echo "UPGRADE SYSTEM"
 sudo apt-get upgrade -y
 
-
-printf "\n
-#######################################
-####                               ####
-####       AUTOREMOVE SYSTEM       ####
-####                               ####
-#######################################\n"
+echo "AUTOREMOVE SYSTEM"
 sudo apt autoremove -y
