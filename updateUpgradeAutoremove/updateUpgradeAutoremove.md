@@ -3,7 +3,7 @@
 ### Скачивание:
 
 ```shell
-curl -O https://raw.githubusercontent.com/AndreyJVM/Bash_Scripts_Collection/main/updateUpgradeAutoremove.sh
+curl -O https://raw.githubusercontent.com/AndreyJVM/Bash_Scripts_Collection/main/updateUpgradeAutoremove/updateUpgradeAutoremove.sh
 ```
 
 ### Дать права на выполнение:
