@@ -15,8 +15,6 @@
 #   ./ls-helper.sh len
 #   ./ls-helper.sh long
 
-VERSION='v1.2b'
-
 function Usage_Exit {
     echo "Использование: $0 [color|last|len|long] [доп.параметры]"
     echo "Попробуйте:"
